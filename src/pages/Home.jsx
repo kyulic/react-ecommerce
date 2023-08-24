@@ -57,7 +57,7 @@ const Home = () => {
 
         <footer className='franja_home'>        
          <section className='seccion_home'>Karla Yulieth Caquimbo U.: 
-        <a className='link_repositorio' href="https://github.com/kyulic/e-commerce-React">Repositorio</a></section>
+        <a className='link_repositorio' href="https://github.com/kyulic/react-ecommerce">Repositorio</a></section>
         </footer>
 
 
